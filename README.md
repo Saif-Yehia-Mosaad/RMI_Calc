@@ -51,8 +51,17 @@ Add advanced operations (square root, power, modulus)
 Build a simple GUI client with JavaFX or Swing
 Add authentication for secure remote calls
 
+## 👥 Credits
+This project was developed by:
+- **Mohamed Ismail**
+- **Saif Yehia Mosaad** 
 
+
+   
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests to improve functionality or documentation.
 
 
+
+Co-authored-by: Mohamed Ismail <your-email@example.com>
+Co-authored-by: Collaborator Name <collaborator-email@example.com>
