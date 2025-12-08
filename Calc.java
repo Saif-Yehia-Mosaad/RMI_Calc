@@ -5,12 +5,16 @@ public class Calc {
     public static void main(String[] args) {
 
         try {
+
+
             int x = Integer.parseInt(args[0]);
             String op = args[1];
             int y = Integer.parseInt(args[2]);
 
             Calculator calc =
                 (Calculator) Naming.lookup("rmi://localhost:2000/CalcService");
+
+
 
 
             double result ;
