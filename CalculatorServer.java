@@ -14,6 +14,7 @@ public class CalculatorServer {
         }
         catch (Exception e) {
             System.out.println("Server Error: " + e);
+
         }
     }
 }
